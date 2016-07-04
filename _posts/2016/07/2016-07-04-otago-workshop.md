@@ -26,9 +26,10 @@ was on the overall very positive and there certainly is an improvement over our 
 workshops, in particular with regards to pace, delivery and dealing with technical issues.
 
 We had a surplus of helpers so Tom became more involved in the "sharing" part working on the
-training materials, including several pull requests to the Software Carpentry lessons
+training materials, including `git branches` lesson and several pull requests to the Software Carpentry lessons
 repositories. It would be interesting so see whether others have had issues with the
-material we where did.
+material we where did. Having extra helpers available for technical issues springing up across
+the room was valuable at times but we also tried to give the learners space to work with each other on exercises.
 
 Favourite moments of Software Carpentry:
 
